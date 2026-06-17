@@ -54,7 +54,7 @@ Aplikasi ini dikembangkan sebagai materi pendamping artikel:
 | Nama | Institusi | Email |
 |------|-----------|-------|
 | Agung Santoso | Universitas Sanata Dharma | agungsan@usd.ac.id |
-| Ide Bagus Siaputra | Universitas Surabaya | — |
+| Ide Bagus Siaputra | Universitas Surabaya | std@staff.ubaya.ac.id |
 
 ### 📜 Lisensi
 
@@ -112,7 +112,7 @@ This application was developed as a companion to:
 | Name | Institution | Email |
 |------|-------------|-------|
 | Agung Santoso | Universitas Sanata Dharma | agungsan@usd.ac.id |
-| Ide Bagus Siaputra | Universitas Surabaya | — |
+| Ide Bagus Siaputra | Universitas Surabaya | std@staff.ubaya.ac.id |
 
 ### 📜 License
 
